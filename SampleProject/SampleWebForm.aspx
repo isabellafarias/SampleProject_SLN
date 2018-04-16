@@ -10,7 +10,10 @@
     <form id="form1" runat="server">
         <div>
             <asp:Label ID="Label1" runat="server" Text="When you make an edit, make sure to sync and then push to repository"></asp:Label>
-        </div>
+            <br />
+            <br />
+            <br />
+            Now you can make your own edits to the project</div>
     </form>
 </body>
 </html>
