@@ -9,7 +9,7 @@
 <body>
     <form id="form1" runat="server">
         <div>
-            <asp:Label ID="Label1" runat="server" Text="Label"></asp:Label>
+            <asp:Label ID="Label1" runat="server" Text="When you make an edit, make sure to sync and then push to repository"></asp:Label>
         </div>
     </form>
 </body>
